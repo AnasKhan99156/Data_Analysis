@@ -2,6 +2,7 @@
 
 Data analysis is a process for obtaining raw data, and subsequently converting it into information useful for decision-making by users. Data is collected and analyzed to answer questions, test hypotheses, or disprove theories.
 
+# Steps for creating a dashboard
 * Step 1:
   
 Collect the data for the analysis in excel format or any other convenient file.
@@ -27,8 +28,14 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
  Once the dashboard design is done we need to publish our dashboard to the **PowerBi Service**.
 
 
- # I have attached a output of my analysis below
+ # I have attached an output of my analysis below
  
-# Output
+
 
 ![Screenshot 2023-11-23 104940](https://github.com/AnasKhan99156/Data_Analysis/assets/130431848/fc79d11c-d4f4-4559-99d9-abafe6635ddf)
+
+# My work in the above output 
+
+In the above visualization I have visualized the Profit of Super Store on various factors like **Category, Regions, Segments, etc** .
+
+* Note: The above dashboard has been created on **Microsoft PowerBi Tool**
