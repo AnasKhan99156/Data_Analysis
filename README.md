@@ -28,7 +28,7 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
  Once the dashboard design is done we need to publish our dashboard to the **PowerBi Service**.
 
 
- # I have attached an output of my analysis below
+ # I have attached the dashboard of my analysis below
  
 
 
@@ -36,6 +36,6 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
 
 # My work in the above output 
 
-In the above visualization I have visualized the Profit of Super Store on various factors like **Category, Regions, Segments, etc** .
+In the above dashboard I have visualized the Profit of Super Store on various factors like **Category, Regions, Segments, etc** .
 
 * **Note:** The above dashboard has been created on **Microsoft PowerBi Tool**
