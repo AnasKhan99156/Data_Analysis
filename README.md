@@ -38,4 +38,4 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
 
 In the above visualization I have visualized the Profit of Super Store on various factors like **Category, Regions, Segments, etc** .
 
-* Note: The above dashboard has been created on **Microsoft PowerBi Tool**
+* **Note:** The above dashboard has been created on **Microsoft PowerBi Tool**
