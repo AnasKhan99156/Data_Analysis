@@ -34,7 +34,7 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
 
 ![Screenshot 2023-11-23 104940](https://github.com/AnasKhan99156/Data_Analysis/assets/130431848/fc79d11c-d4f4-4559-99d9-abafe6635ddf)
 
-# My work in the above output 
+# My work in the above Dashboard 
 
 In the above dashboard I have visualized the Profit of Super Store on various factors like **Category, Regions, Segments, etc** .
 
