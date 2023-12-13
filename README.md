@@ -28,7 +28,7 @@ Now Select the table we want to use and then click on the **Load Data** if we wa
  Once the dashboard design is done we need to publish our dashboard to the **PowerBi Service**.
 
 
- # I have attached the dashboard of my analysis below
+ # I have attached the dashboard of my analysis
  
 
 
